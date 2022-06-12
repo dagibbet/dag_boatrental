@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="2411.917725" y="-1848.442139" z="-358.841850"/>
+	<streamingExtentsMax x="3213.036133" y="-1047.609131" z="441.714542"/>
+	<entitiesExtentsMin x="2811.917725" y="-1448.442139" z="41.158150"/>
+	<entitiesExtentsMax x="2813.036133" y="-1447.609131" z="41.714542"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_cal_fencepost01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="2811.917725" y="-1447.609131" z="41.714542"/>
+			<rotation w="0.292735" x="-0.080317" y="0.033801" z="-0.952215"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp005_p_mp_bountyboard01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="2812.478271" y="-1447.881714" z="41.158150"/>
+			<rotation w="0.328360" x="-0.070042" y="0.051841" z="-0.940524"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_cal_fencepost01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="2813.036133" y="-1448.442139" z="41.460316"/>
+			<rotation w="0.340993" x="-0.071017" y="0.050496" z="-0.936018"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>
